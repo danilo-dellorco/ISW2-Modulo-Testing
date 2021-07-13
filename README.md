@@ -7,7 +7,7 @@ Esecuzione dei test e analisi automatica del coverage tramite Jacoco
 ```bash
 mvn clean verify -P coverage
 ```
-Report coverage: ```target\jacoco-gen\jcs-coverage```\
+Report coverage: ```target\jacoco-gen\jcs-coverage```
 
 # Bookkeeper  [![Build Status](https://travis-ci.com/danilo-dellorco/bookkeeper.svg?branch=master)](https://travis-ci.com/danilo-dellorco/bookkeeper) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=danilo-dellorco_bookkeeper&metric=alert_status)](https://sonarcloud.io/dashboard?id=danilo-dellorco_bookkeeper) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=danilo-dellorco_bookkeeper&metric=coverage)](https://sonarcloud.io/dashboard?id=danilo-dellorco_bookkeeper)
 Repository progetto: https://github.com/danilo-dellorco/bookkeeper
@@ -22,7 +22,7 @@ Esecuzione framework PIT:
 mvn clean verify -P mutation
 ```
 Report coverage: ```my-tests\target\site\jacoco-aggregate```\
-Report mutation testing:  ```bookkeeper-server\target\pit-reports```\
+Report mutation testing:  ```bookkeeper-server\target\pit-reports```
 
 
 # Syncope [![Build Status](https://travis-ci.com/danilo-dellorco/syncope.svg?branch=master)](https://travis-ci.com/danilo-dellorco/syncope) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=danilo-dellorco_syncope&metric=alert_status)](https://sonarcloud.io/dashboard?id=danilo-dellorco_syncope) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=danilo-dellorco_syncope&metric=coverage)](https://sonarcloud.io/dashboard?id=danilo-dellorco_syncope)
