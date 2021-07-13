@@ -1,0 +1,4 @@
+bookkeeper.bookkeeper-server.src.main.java.org.apache.bookkeeper.bookie.BufferedChannel.java
+bookkeeper.bookkeeper-server.src.main.java.org.apache.bookkeeper.bookie.storage.ldb.ReadCache.java
+syncope.core.persistence-jpa.src.main.java.org.apache.syncope.core.persistence.jpa.validation.entity.GroupValidator.java
+syncope.core.provisioning-api.src.main.java.org.apache.syncope.core.provisioning.api.utils.RealmUtils.java

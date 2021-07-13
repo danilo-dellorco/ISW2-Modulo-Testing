@@ -1,0 +1,3 @@
+bookkeeper.bookkeeper-server.src.test.java.org.apache.bookkeeper.mytests
+syncope.core.persistence-jpa.src.test.java.org.apache.syncope.core.persistence.jpa.mytests
+syncope.core.provisioning-api.src.test.java.org.apache.syncope.core.provisioning.api.mytests
